@@ -1,12 +1,19 @@
-### Hi Developers 👋
+<!-- [![MastHead](https://scontent.fpat2-4.fna.fbcdn.net/v/t39.30808-6/326768335_6105115199551078_1638999767382020369_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=qt-3JNzBaysAX9p0ASO&_nc_ht=scontent.fpat2-4.fna&oh=00_AfCrbO54O-rt6rPazYm8-rORGQ2mdSVPw4sHm4SusqDNbg&oe=63F217E0)](https://stepupspft.com) -->
+
+
+# Hello there! 👋🏻 I am Rawin Kumar! 
+<!-- <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /> -->
+
+
+<!-- ### Hi Developers 👋 -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Robin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rawin-kumar-152a6973/)](https://www.linkedin.com/in/rawin-kumar-152a6973/)
 
 
-I'm
-Frontend Developer
-1.8 years’ Experience with React.js, React Hooks, Redux, ECMAScript, RESTful APIs Finding opportunity where I can expand my knowledge & ability using my 
+I am Rawin Kumar 🙋🏻‍♂️,
+a Frontend Developer. 
+I have 1.8 years’ Experience with React.js, React Hooks, Redux, ECMAScript, RESTful APIs Finding opportunity where I can expand my knowledge & ability using my 
 programming skills.
 3+ year experience in WordPress. I am Energetic Web Designer & Developer. 
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX, WordPress, Bootstrap), also good knowledge of database(MongoDBl), Express js, Node js. 
@@ -20,6 +27,7 @@ The crossover between design and programming has always been of interest to me, 
     <img src="https://github-profile-trophy.vercel.app/?username=robinmedco2002&column=7"/>
   </a>
 </div>
+
 
  <h4>🏆 Languages and Tools: </h4> 
  
@@ -76,9 +84,15 @@ The crossover between design and programming has always been of interest to me, 
     </a>
     
     
-    
 
 ![](https://activity-graph.herokuapp.com/graph?username=robinmedco2002&theme=react-dark&area=true)
+
+
+| ![Robin GitHub Statistics](https://github-readme-stats.vercel.app/api?username=robinmedco2002&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinmedco2002) |
+| --- | --- |
+| ![Robin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinmedco2002) | 
+
+
 <!--
 **robinmedco2002/robinmedco2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
