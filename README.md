@@ -15,7 +15,7 @@ I am Rawin Kumar 🙋🏻‍♂️,
 a Frontend Developer. 
 I have 1.8 years’ Experience with React.js, React Hooks, Redux, ECMAScript, RESTful APIs Finding opportunity where I can expand my knowledge & ability using my 
 programming skills.
-3+ year experience in WordPress. I am Energetic Web Designer & Developer. 
+5+ year experience in WordPress. I am Energetic Web Designer & Developer. 
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX, WordPress, Bootstrap), also good knowledge of database(MongoDBl), Express js, Node js. 
 
 
